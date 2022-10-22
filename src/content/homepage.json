@@ -1,0 +1,59 @@
+{
+  "heroHeading": "Trust the Vault. Stake. Earn Rewards.",
+  "cardsNumber": [
+    {
+      "title": "Mainnet",
+      "number": 14
+    },
+    {
+      "title": "Testnet",
+      "number": 2
+    },
+    {
+      "title": "Total Assets",
+      "number": "$150 m."
+    },
+    {
+      "title": "Uptime",
+      "number": "99.9%"
+    }
+  ],
+  "aboutContent": [
+    {
+      "subTitle": "WE CAN HELP",
+      "title": "Dedicated",
+      "paragraph": "We are a progressive staking, infrastructure, and software provider for blockchain projects. Our professional-grade servers help secure networks and ecosystems. Join our community to earn rewards.",
+      "img": "../images/dedicated.png"
+    },
+    {
+      "subTitle": "WE ARE PROUD",
+      "title": "Reliable",
+      "paragraph": "Our infrastructure is deployed around the world and hosted by multiple providers to increase decentralization and fault-tolerance. We are proud to host applications on, and overall support, the Akash Network; a decentralized cloud platform and blockchain.",
+      "img": "./images/reliable.png"
+    },
+    {
+      "subTitle": "WE CAN STAKE",
+      "title": "Rewarding",
+      "paragraph": "Our delegators can maximize profit and minimize risk on their favorite chains. Stake to us through <a href='www.restake.app'>restake.app</a> and enjoy staking rewards compounded daily. And while staking incurs a risk of slashing, we will reimburse our delegators for any lost funds due to a slash.",
+      "img": "./images/rewarding.png"
+    }
+  ],
+  "faq": [
+    {
+      "title": "What is Staking? Why should I stake?",
+      "text": "Staking is the process of delegating, or locking up, cryptocurrency tokens to a validator. In return for locking up tokens, delegators receive staking rewards from the network."
+    },
+    {
+      "title": "Are my tokens safe when I delegate to a validator?",
+      "text": "Yes! Staking is a non-custodial service, which means the validator never has access to your funds or rewards."
+    },
+    {
+      "title": "What is slashing, and does Vault Staking offer any protection from it?",
+      "text": "Slashing is a penalty to a validator and its delegators when the validator misbehaves. Soft slashing is when a validator has continuous downtime, and is usually less than a 1% penalty. Hard slashing is when a validator double signs a block, and is usually between a 5% and 10% penalty. Vault Staking offers both soft and hard slashing refunds if our delegators lose funds due to a slashing penalty."
+    },
+    {
+      "title": "Are you hiring, or looking for additional projects to partner with or invest in?",
+      "text": "Yes! We are always looking for talented people, projects, or partners to work with. We can support individuals and teams with more than just validator services, so please reach out with how we can help!"
+    }
+  ]
+}
