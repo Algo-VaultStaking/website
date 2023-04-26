@@ -3,19 +3,19 @@
   "cardsNumber": [
     {
       "title": "Mainnet",
-      "number": 14
+      "number": 18
     },
     {
       "title": "Testnet",
-      "number": 2
+      "number": 9
     },
     {
       "title": "Total Assets",
-      "number": "$150 m."
+      "number": "$220 m."
     },
     {
       "title": "Uptime",
-      "number": "99.9%"
+      "number": "> 99.9%"
     }
   ],
   "aboutContent": [
