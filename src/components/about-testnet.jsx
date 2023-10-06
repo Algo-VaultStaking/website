@@ -2,14 +2,6 @@ import * as React from "react";
 
 const chains = [
   {
-    logo: "/aura.svg",
-    logoAlt: "aura network logo",
-    url: "https://aura.network/",
-    title: "Aura Network",
-    text: "",
-    badge: false,
-  },
-  {
     logo: "/comdex.svg",
     logoAlt: "comdex logo",
     url: "https://comdex.one/",
@@ -34,26 +26,10 @@ const chains = [
     badge: false,
   },
   {
-    logo: "/graph.svg",
-    logoAlt: "the graph logo",
-    url: "https://thegraph.com/explorer/profile/0x6fb74b16645466a5f614fd80fb04fcb07cfb4e74?view=Overview",
-    title: "The Graph",
-    text: "",
-    badge: false,
-  },
-//  {
-//    logo: "/lava.svg",
-//    logoAlt: "lava logo",
-//    url: "",
-//    title: "Lava",
-//    text: "",
-//    badge: false,
-//  },
-  {
-    logo: "/muon.svg",
-    logoAlt: "muon logo",
+    logo: "/lava.svg",
+    logoAlt: "lava logo",
     url: "",
-    title: "Muon",
+    title: "Lava",
     text: "",
     badge: false,
   },
