@@ -26,14 +26,6 @@ const chains = [
     badge: false,
   },
   {
-    logo: "/lava.svg",
-    logoAlt: "lava logo",
-    url: "",
-    title: "Lava",
-    text: "",
-    badge: false,
-  },
-  {
     logo: "/obol.svg",
     logoAlt: "obol logo",
     url: "",
@@ -42,12 +34,20 @@ const chains = [
     badge: false,
   },
   {
+    logo: "/persistence.svg",
+    logoAlt: "persistence logo",
+    url: "",
+    title: "Persistence",
+    text: "",
+    badge: false,
+  },
+  {
     logo: "/polygon.svg",
     logoAlt: "polygon logo",
     url: "",
-    title: "Polygon Supernets",
+    title: "Polygon Mumbai",
     text: "",
-    badge: true,
+    badge: false,
   },
   {
     logo: "/whitewhale.svg",

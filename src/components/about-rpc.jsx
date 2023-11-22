@@ -4,10 +4,10 @@ const chains = [
   {
     logo: "/blast.svg",
     logoAlt: "blast logo",
-    url: "",
+    url: "https://blastapi.io/explorer/0xb000f8fa5fc06249c718e9db793d9618400618c3",
     title: "Blast",
     text: "",
-    badge: true,
+    badge: false,
   },
   {
     logo: "/canto.svg",
@@ -30,6 +30,14 @@ const chains = [
     logoAlt: "gnosis logo",
     url: "http://gnosis-rpc.vaultstaking.com",
     title: "Gnosis",
+    text: "",
+    badge: false,
+  },
+  {
+    logo: "/polygon.svg",
+    logoAlt: "polygon logo",
+    url: "http://polygon-rpc.vaultstaking.com",
+    title: "Polygon",
     text: "",
     badge: false,
   },

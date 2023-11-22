@@ -6,7 +6,15 @@ const chains = [
     logoAlt: "akash logo",
     url: "https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1a0wt033eds6lk4y0tucwju2x3weglxzg7vesku",
     title: "Akash",
-    text: "13% APR",
+    text: "10% APR",
+    badge: false,
+  },
+  {
+    logo: "/blast.svg",
+    logoAlt: "blast logo",
+    url: "https://blastapi.io/explorer/0xb000f8fa5fc06249c718e9db793d9618400618c3",
+    title: "Blast",
+    text: "11% APR",
     badge: false,
   },
   {
@@ -14,7 +22,7 @@ const chains = [
     logoAlt: "canto logo",
     url: "https://www.mintscan.io/canto/validators/cantovaloper1d9z4m5g65a5lc96pyd9t7394rsvdcf7ezc2l6j",
     title: "Canto",
-    text: "",
+    text: "6% APR",
     badge: false,
   },
   {
@@ -22,7 +30,7 @@ const chains = [
     logoAlt: "comdex logo",
     url: "https://ping.pub/comdex/staking/comdexvaloper1zy7uuu6cd5fde3uunlh5l40jjf24ypd6rnltv5",
     title: "Comdex",
-    text: "37% APR",
+    text: "39% APR",
     badge: false,
   },
   {
@@ -38,7 +46,7 @@ const chains = [
     logoAlt: "evmos logo",
     url: "https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1k5hcl0cjprzewwvzhz3um589kx8skzlrneuepu",
     title: "Evmos",
-    text: "128% APR",
+    text: "36% APR",
     badge: false,
   },
   {
@@ -46,23 +54,7 @@ const chains = [
     logoAlt: "gnosis beacon chain logo",
     url: "https://docs.gnosischain.com/",
     title: "Gnosis Beacon Chain",
-    text: "",
-    badge: false,
-  },
-  {
-    logo: "/graph.svg",
-    logoAlt: "the graph logo",
-    url: "https://thegraph.com/explorer/profile/0x6fb74b16645466a5f614fd80fb04fcb07cfb4e74?view=Overview",
-    title: "The Graph",
-    text: "Coming soon!",
-    badge: true,
-  },
-  {
-    logo: "/injective.svg",
-    logoAlt: "injective logo",
-    url: "",
-    title: "Injective",
-    text: "Inactive",
+    text: "Contact Us!",
     badge: false,
   },
   {
@@ -70,7 +62,7 @@ const chains = [
     logoAlt: "obol logo",
     url: "",
     title: "Obol",
-    text: "",
+    text: "Contact Us!",
     badge: false,
   },
   {
@@ -78,7 +70,7 @@ const chains = [
     logoAlt: "persistence logo",
     url: "https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1w0vwc82emz0ufyuvmvwps8s0lcyxl39nsct0w0",
     title: "Persistence",
-    text: "33% APR",
+    text: "16% APR",
     badge: false,
   },
   {
@@ -87,14 +79,6 @@ const chains = [
     url: "https://staking.polygon.technology/validators/37",
     title: "Polygon",
     text: "5% APR",
-    badge: false,
-  },
-  {
-    logo: "/point.svg",
-    logoAlt: "point network logo",
-    url: "https://ping.pub/point/staking/pointvaloper12g28ynkz0cm075lfj7kgh3d2aad4z5q6vx7gnt",
-    title: "Point Network",
-    text: "17% APR",
     badge: false,
   },
   {
@@ -116,9 +100,9 @@ const chains = [
   {
     logo: "/whitewhale.svg",
     logoAlt: "white whale logo",
-    url: "",
+    url: "https://explorer.silknodes.io/migaloo/staking/migaloovaloper13qayma5qn93xyhn2urjzc8j3j4f5j5yvgpckvr",
     title: "White Whale",
-    text: "",
+    text: "8% APR",
     badge: false,
   },
 ];
