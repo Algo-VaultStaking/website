@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `localhost:8080`
+    siteUrl: `vaultstaking.com`
   },
   plugins: ["gatsby-plugin-sass", {
     resolve: 'gatsby-plugin-google-analytics',
