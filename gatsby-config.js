@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `localhost:8080`
   },
   plugins: ["gatsby-plugin-sass", {
     resolve: 'gatsby-plugin-google-analytics',
