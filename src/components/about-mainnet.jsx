@@ -1,14 +1,14 @@
 import * as React from "react";
 
 const chains = [
-  {
+/*  {
     logo: "/aethir.svg",
     logoAlt: "aethir logo",
     url: "https://app.aethir.com/dashboard",
     title: "Aethir",
     text: "",
     badge: false,
-  },
+  },*/
   {
     logo: "/avail.svg",
     logoAlt: "avail logo",
@@ -63,14 +63,6 @@ const chains = [
     url: "https://staking.polygon.technology/validators/37",
     title: "Polygon",
     text: "5% APR",
-    badge: false,
-  },
-  {
-    logo: "/router.svg",
-    logoAlt: "router logo",
-    url: "https://staking.polygon.technology/validators/37",
-    title: "Router",
-    text: "https://router.explorers.guru/validator/routervaloper1l4ms9p5yafclwdnydw2nvp2q846s4llusya8lt",
     badge: false,
   },
   {
