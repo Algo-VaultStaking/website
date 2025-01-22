@@ -3,11 +3,11 @@
   "cardsNumber": [
     {
       "title": "Mainnet",
-      "number": 13
+      "number": 10
     },
     {
       "title": "Testnet",
-      "number": 7
+      "number": 4
     },
     {
       "title": "Total Assets",

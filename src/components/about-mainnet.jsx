@@ -46,7 +46,7 @@ const chains = [
     logoAlt: "obol logo",
     url: "https://obol.org/",
     title: "Obol",
-    text: "Contact Us!",
+    text: "",
     badge: false,
   },
   {
@@ -54,7 +54,7 @@ const chains = [
     logoAlt: "persistence logo",
     url: "https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1w0vwc82emz0ufyuvmvwps8s0lcyxl39nsct0w0",
     title: "Persistence",
-    text: "17% APR",
+    text: "",
     badge: false,
   },
   {
@@ -62,7 +62,7 @@ const chains = [
     logoAlt: "polygon logo",
     url: "https://staking.polygon.technology/validators/37",
     title: "Polygon",
-    text: "5% APR",
+    text: "",
     badge: false,
   },
   {
@@ -78,15 +78,15 @@ const chains = [
     logoAlt: "sx network logo",
     url: "https://sx.bet/stakingV2/validators",
     title: "Sx Network",
-    text: "7% APR",
+    text: "",
     badge: false,
   },
   {
     logo: "/whitewhale.svg",
     logoAlt: "white whale logo",
-    url: "https://explorer.silknodes.io/migaloo/staking/migaloovaloper13qayma5qn93xyhn2urjzc8j3j4f5j5yvgpckvr",
+    url: "https://ping.pub/Migaloo/staking/migaloovaloper13qayma5qn93xyhn2urjzc8j3j4f5j5yvgpckvr",
     title: "White Whale",
-    text: "8% APR",
+    text: "",
     badge: false,
   },
 ];
