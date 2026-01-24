@@ -10,6 +10,14 @@ const chains = [
     badge: false,
   },*/
   {
+    logo: "/autonity.svg",
+    logoAlt: "autonity logo",
+    url: "https://autonity.org/",
+    title: "Autonity",
+    text: "",
+    badge: false,
+  },
+  {
     logo: "/avail.svg",
     logoAlt: "avail logo",
     url: "https://explorer.avail.so/#/staking/",
@@ -17,22 +25,14 @@ const chains = [
     text: "",
     badge: false,
   },
-  {
-    logo: "/elys.svg",
-    logoAlt: "elys logo",
-    url: "https://ping.pub/elys/staking/elysvaloper12e2zn8qk6dyg0vmduk3kq22c29f9w497fmguv9",
-    title: "Elys",
+  /*  {
+    logo: "/dymension.svg",
+    logoAlt: "dymension logo",
+    url: "https://dymension.explorers.guru/validator/dymvaloper1zj48ahlaj52dref5cs8xrkktx58fn3qz892ghp",
+    title: "Dymension",
     text: "",
     badge: false,
-  },
-  {
-    logo: "/gnosis.svg",
-    logoAlt: "gnosis beacon chain logo",
-    url: "https://docs.gnosischain.com/",
-    title: "Gnosis Beacon Chain",
-    text: "",
-    badge: false,
-  },
+  },*/
   {
     logo: "/mantra.svg",
     logoAlt: "mantra chain logo",
@@ -41,14 +41,14 @@ const chains = [
     text: "",
     badge: false,
   },
-  {
-    logo: "/obol.svg",
-    logoAlt: "obol logo",
-    url: "https://obol.org/",
-    title: "Obol",
+  /*  {
+    logo: "/monad.svg",
+    logoAlt: "monad logo",
+    url: "",
+    title: "Monad",
     text: "",
     badge: false,
-  },
+  },*/
   {
     logo: "/persistence.svg",
     logoAlt: "persistence logo",
@@ -78,14 +78,6 @@ const chains = [
     logoAlt: "sx network logo",
     url: "https://sx.bet/stakingV2/validators",
     title: "Sx Network",
-    text: "",
-    badge: false,
-  },
-  {
-    logo: "/whitewhale.svg",
-    logoAlt: "white whale logo",
-    url: "https://ping.pub/Migaloo/staking/migaloovaloper13qayma5qn93xyhn2urjzc8j3j4f5j5yvgpckvr",
-    title: "White Whale",
     text: "",
     badge: false,
   },

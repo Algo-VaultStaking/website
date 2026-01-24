@@ -2,14 +2,6 @@ import * as React from "react";
 
 const chains = [
   {
-    logo: "/elys.svg",
-    logoAlt: "elys logo",
-    url: "",
-    title: "Elys",
-    text: "",
-    badge: true,
-  },
-  {
     logo: "/mantra.svg",
     logoAlt: "mantra logo",
     url: "",

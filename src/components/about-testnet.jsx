@@ -25,14 +25,6 @@ const chains = [
     text: "",
     badge: false,
   },
-  {
-    logo: "/story-white.svg",
-    logoAlt: "story logo",
-    url: "https://testnet.storyscan.app/validators/storyvaloper14j90lm6qu2uaux4fkhvg9ftxnl6vff5cegz95r",
-    title: "Story",
-    text: "",
-    badge: false,
-  },
 ];
 
 const AboutTestnet = () => {
