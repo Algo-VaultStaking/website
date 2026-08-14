@@ -10,14 +10,6 @@ const chains = [
     badge: false,
   },*/
   {
-    logo: "/autonity.svg",
-    logoAlt: "autonity logo",
-    url: "https://autonity.org/",
-    title: "Autonity",
-    text: "",
-    badge: false,
-  },
-  {
     logo: "/avail.svg",
     logoAlt: "avail logo",
     url: "https://explorer.avail.so/#/staking/",
@@ -25,14 +17,6 @@ const chains = [
     text: "",
     badge: false,
   },
-  /*  {
-    logo: "/dymension.svg",
-    logoAlt: "dymension logo",
-    url: "https://dymension.explorers.guru/validator/dymvaloper1zj48ahlaj52dref5cs8xrkktx58fn3qz892ghp",
-    title: "Dymension",
-    text: "",
-    badge: false,
-  },*/
   {
     logo: "/mantra.svg",
     logoAlt: "mantra chain logo",
@@ -62,22 +46,6 @@ const chains = [
     logoAlt: "polygon logo",
     url: "https://staking.polygon.technology/validators/37",
     title: "Polygon",
-    text: "",
-    badge: false,
-  },
-  {
-    logo: "/seda.svg",
-    logoAlt: "seda logo",
-    url: "https://seda.explorers.guru/validator/sedavaloper1kpuvn57r87lnjgq9u4tx97d3gt9w8h50udrtl8",
-    title: "Seda",
-    text: "",
-    badge: false,
-  },
-  {
-    logo: "/sx.svg",
-    logoAlt: "sx network logo",
-    url: "https://sx.bet/stakingV2/validators",
-    title: "Sx Network",
     text: "",
     badge: false,
   },

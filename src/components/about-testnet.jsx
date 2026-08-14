@@ -2,10 +2,10 @@ import * as React from "react";
 
 const chains = [
   {
-    logo: "/autonity.svg",
-    logoAlt: "autonity logo",
-    url: "https://autonity.org/",
-    title: "Autonity",
+    logo: "/avail.svg",
+    logoAlt: "avail logo",
+    url: "https://explorer.avail.so/#/staking/",
+    title: "Avail",
     text: "",
     badge: false,
   },
@@ -14,14 +14,6 @@ const chains = [
     logoAlt: "polygon logo",
     url: "https://staking.polygon.technology",
     title: "Polygon Amoy",
-    text: "",
-    badge: false,
-  },
-  {
-    logo: "/seda.svg",
-    logoAlt: "seda logo",
-    url: "https://testnet.seda.explorers.guru/validator/sedavaloper1g6lmz2n0v87qxv8ktpenprapw2j8akw59lsjxe",
-    title: "Seda",
     text: "",
     badge: false,
   },
